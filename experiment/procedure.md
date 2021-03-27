@@ -14,6 +14,7 @@ Click on Start Experiment button to start the experiment.
 <img src="images/pr1.png"/>
 
 Step 1: a). Click on Add button to add Beam in the lab.
+
 Step 1: b). Click on Beam to arrange them in right position.
 
 <img src="images/pr2.png"/>
