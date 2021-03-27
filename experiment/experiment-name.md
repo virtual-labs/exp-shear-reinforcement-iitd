@@ -1,1 +1,1 @@
-## Shear Lag Effect in Electro-Mechanical Impedance (EMI) Technique
+## Experiment name
